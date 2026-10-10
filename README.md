@@ -2,6 +2,9 @@
 
 Can LLMs keep score? Given a point-by-point tennis or padel sequence, the model reports sets, games, points and who serves next. Answers are checked by exact match against a rules engine written in Python, with and without the rules in the prompt.
 
+[![DEV Community Challenge](https://img.shields.io/badge/DEV%20COMMUNITY-CHALLENGE-00A8CC?style=for-the-badge&labelColor=4B4B4B)](https://dev.to/)
+[![KAGGLE BENCHMARK](https://img.shields.io/badge/KAGGLE-BENCHMARK-20BEFF?style=for-the-badge&labelColor=4B4B4B&logo=kaggle&logoColor=white)](https://www.kaggle.com/benchmarks/gulrezqayyum/tennis-and-padel-state-tracking-benchmark)
+
 **Live benchmark on Kaggle:** https://www.kaggle.com/benchmarks/gulrezqayyum/tennis-and-padel-state-tracking-benchmark
 
 ![Leaderboard](leaderboard.png)
