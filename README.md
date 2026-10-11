@@ -19,7 +19,7 @@ Can LLMs keep score? Given a point-by-point tennis or padel sequence, the model 
 |---|---|
 | Gemini 3.7 Flash | 0.96 |
 | gpt-oss-20b | 0.42 |
-| Claude Haiku 4.5 | 0.00 |
+| Claude Haiku 4.5 | 0.00 on the Kaggle leaderboard (1/48 when I reran it myself) |
 | GPT-5.4 nano | 0.00 |
 | Gemma 4 26B A4B | error |
 
