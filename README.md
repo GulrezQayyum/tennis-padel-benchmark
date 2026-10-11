@@ -34,3 +34,4 @@ Can LLMs keep score? Given a point-by-point tennis or padel sequence, the model 
 ## Limits
 Small sample (48 cases), one run per case, and a few models only. In my tests the same model sometimes gave different answers to the same prompt, so single-run differences between conditions should be treated carefully.
 
+Built with love and a passion to be good at tennis.
